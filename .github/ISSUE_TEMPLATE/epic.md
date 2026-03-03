@@ -5,7 +5,6 @@ about: A high-level piece of work that is too big to be completed in a single wo
 title: ''
 labels: ''
 assignees: ''
-type: 'Epic'
 
 ---
 
