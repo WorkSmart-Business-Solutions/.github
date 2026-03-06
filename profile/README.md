@@ -20,4 +20,9 @@
                   
                                                       Worksmart       
 ```                        
-                           
+
+### What We Do
+
+Worksmart has been serving the software and managed IT needs of Irish Businesses for over 30 years. 
+
+Worksmart develop SaaS web applications and other bespoke software solutions for clients. Our dedicated team provide best-in class software solutions for our customers.
