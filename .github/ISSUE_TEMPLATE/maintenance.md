@@ -9,5 +9,10 @@ assignees: ''
 
 Monthly maintenance updates and package audits.
 
-You should:
-* Update
+Dependencies:
+* Update dependencies - run `npm audit` / `composer audit` to check for vulnerabilities
+* Remove unused dependencies
+* Replace deprecated dependencies
+Bug fixing:
+* Fix minor bugs
+* Create tickets for major bugs
